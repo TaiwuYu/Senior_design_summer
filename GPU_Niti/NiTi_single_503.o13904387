@@ -1,0 +1,73 @@
+hostptr=0x280f6540,stride=1,size=9,eltsize=8,name=te_p,flags=0x200=present,async=-1,threadid=1
+Present table dump for device[1]: NVIDIA Tesla GPU 0, compute capability 6.0, threadid=1
+host:0x6c05f0 device:0x2afabb400e00 size:48 presentcount:0+1 line:124 name:E_oo
+host:0x6f5970 device:0x2afabb400000 size:288 presentcount:0+1 line:124 name:Sij0
+host:0x6f5aa0 device:0x2afabb400400 size:648 presentcount:0+1 line:124 name:Cijkl0
+host:0x6f6250 device:0x2afabb400200 size:288 presentcount:0+1 line:124 name:Cij0
+host:0x6f6370 device:0x2afabb400c00 size:288 presentcount:0+1 line:124 name:Cij2
+host:0x6f6490 device:0x2afa4c600000 size:16777216 presentcount:1+0 line:57 name:eta_r
+host:0x16f6490 device:0x2afa82000000 size:25559040 presentcount:1+0 line:57 name:g_v
+host:0x2f56490 device:0x2afa88000000 size:17039360 presentcount:1+0 line:57 name:eta_k
+host:0x3f96490 device:0x2afa8c000000 size:17039360 presentcount:1+0 line:57 name:hc_k
+host:0x4fd6490 device:0x2afa8e000000 size:17039360 presentcount:1+0 line:57 name:mu_ck
+host:0x6016490 device:0x2afa85000000 size:16777216 presentcount:1+0 line:57 name:heta_r
+host:0x7016490 device:0x2afa81000000 size:16777216 presentcount:1+0 line:57 name:hc_r
+host:0x8016490 device:0x2afa90000000 size:17039360 presentcount:1+0 line:57 name:heta_k
+host:0x9056490 device:0x2afa86000000 size:17039360 presentcount:1+0 line:57 name:c_k
+host:0xa096490 device:0x2afa7b200000 size:8519680 presentcount:1+0 line:57 name:g_mod2
+host:0xa8b6490 device:0x2afa84000000 size:16777216 presentcount:1+0 line:57 name:mu_cr
+host:0xb8b6490 device:0x2afa8a000000 size:17039360 presentcount:1+0 line:57 name:mu_k
+host:0xc8f6490 device:0x2afa70a00000 size:16777216 presentcount:1+0 line:57 name:c_r
+host:0xd8f6490 device:0x2afa80000000 size:16777216 presentcount:1+0 line:57 name:mu_r
+host:0x100f6510 device:0x2afae2000000 size:100663296 presentcount:0+1 line:124 name:rSig
+host:0x160f6510 device:0x2afad6000000 size:100663296 presentcount:0+1 line:124 name:Tau_0
+host:0x1c0f6510 device:0x2afabb401000 size:48 presentcount:0+1 line:124 name:te_p2
+host:0x1c0f6540 device:0x2afabc000000 size:100663296 presentcount:0+1 line:124 name:Sig
+host:0x220f6540 device:0x2afac2000000 size:100663296 presentcount:0+1 line:124 name:iEps0_last
+host:0x280f6588 device:0x2afac8000000 size:100663296 presentcount:0+1 line:124 name:vEps
+host:0x2f0f6588 device:0x2afabb400a00 size:48 presentcount:0+1 line:124 name:SigAvg
+host:0x2f0f65b8 device:0x2afadc000000 size:100663296 presentcount:0+1 line:124 name:Tau
+host:0x361365c0 device:0x2afa92000000 size:690094080 presentcount:0+1 line:124 name:GAMMA
+host:0x5f3565c0 device:0x2aface000000 size:102236160 presentcount:0+1 line:124 name:kSig
+host:0x654d65c0 device:0x2afae8000000 size:100663296 presentcount:1+1 line:135 name:T_tr
+host:0x6b4d6608 device:0x2afabb400800 size:48 presentcount:0+1 line:124 name:EpsAvg
+allocated block device:0x2afa4c600000 size:17039360 thread:1
+allocated block device:0x2afa70a00000 size:16777216 thread:1
+allocated block device:0x2afa76200000 size:17039360 thread:1
+allocated block device:0x2afa7a200000 size:16777216 thread:1
+allocated block device:0x2afa7b200000 size:8519680 thread:1
+allocated block device:0x2afa80000000 size:16777216 thread:1
+allocated block device:0x2afa81000000 size:16777216 thread:1
+allocated block device:0x2afa82000000 size:25559040 thread:1
+allocated block device:0x2afa84000000 size:16777216 thread:1
+allocated block device:0x2afa85000000 size:16777216 thread:1
+allocated block device:0x2afa86000000 size:17039360 thread:1
+allocated block device:0x2afa88000000 size:17039360 thread:1
+allocated block device:0x2afa8a000000 size:17039360 thread:1
+allocated block device:0x2afa8c000000 size:17039360 thread:1
+allocated block device:0x2afa8e000000 size:17039360 thread:1
+allocated block device:0x2afa90000000 size:17039360 thread:1
+allocated block device:0x2afa92000000 size:690094080 thread:1
+allocated block device:0x2afabb400000 size:512 thread:1
+allocated block device:0x2afabb400200 size:512 thread:1
+allocated block device:0x2afabb400400 size:1024 thread:1
+allocated block device:0x2afabb400800 size:512 thread:1
+allocated block device:0x2afabb400a00 size:512 thread:1
+allocated block device:0x2afabb400c00 size:512 thread:1
+allocated block device:0x2afabb400e00 size:512 thread:1
+allocated block device:0x2afabb401000 size:512 thread:1
+allocated block device:0x2afabc000000 size:100663296 thread:1
+allocated block device:0x2afac2000000 size:100663296 thread:1
+allocated block device:0x2afac8000000 size:100663296 thread:1
+allocated block device:0x2aface000000 size:102236160 thread:1
+allocated block device:0x2afad6000000 size:100663296 thread:1
+allocated block device:0x2afadc000000 size:100663296 thread:1
+allocated block device:0x2afae2000000 size:100663296 thread:1
+allocated block device:0x2afae8000000 size:100663296 thread:1
+FATAL ERROR: data in PRESENT clause was not found on device 1: name=te_p host:0x280f6540
+ file:/users/PAS0167/osu8537/Taiwu/new/new/GPU_Niti/inhom_v3.c inhom_init line:135
+
+
+real	0m1.176s
+user	0m0.218s
+sys	0m0.324s
